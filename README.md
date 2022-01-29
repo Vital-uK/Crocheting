@@ -1,2 +1,2 @@
 # Crocheting
-# template of crocheting patterns webpages
+# First attempt to make some connected pages
